@@ -6,6 +6,14 @@ An advanced, research-oriented scientific AI platform engineered for autonomous 
 
 ---
 
+## 🌐 Live Production Deployment
+
+- **Official Web Application**: [https://equationzero.vercel.app](https://equationzero.vercel.app)
+- **GitHub Repository**: [https://github.com/ghouseahmed226-debug/EquationZero](https://github.com/ghouseahmed226-debug/EquationZero)
+- **Vercel Project Dashboard**: [https://vercel.com/ghouseahmed226-debugs-projects/equationzero](https://vercel.com/ghouseahmed226-debugs-projects/equationzero)
+
+---
+
 ## 🏛️ Core System Architecture
 
 ```
@@ -23,22 +31,24 @@ An advanced, research-oriented scientific AI platform engineered for autonomous 
 
 ---
 
-## ✨ Features & Capabilities
+## ✨ Features & Interactive Pages
 
-1. **Symbolic Regression Pipeline**: Pareto-optimal mathematical formulation via PySR and genetic programming with parsimony penalties.
-2. **24-Step Verification Laboratory**:
+1. **Symbolic Regression Studio** (`/discover`): Pareto-optimal mathematical formulation via Genetic Programming with complexity penalties and live progress feedback.
+2. **24-Step Verification Laboratory** (`/verify`):
    - Out-of-sample generalization metrics ($R^2$, RMSE, MAE, MAPE).
    - Residual Gaussian normality testing ($p$-values, skewness, kurtosis).
    - Bootstrap resampling (100+ draws) with 95% confidence intervals.
    - Singularity and undefined division-by-zero boundary tests.
-3. **Equation Arena**: Multi-paradigm tournament pitting analytical equations against Polynomial Series, Ridge Regression, SINDy dynamical models, and Deep MLPs.
-4. **Reproducibility Vault**: Content-addressed SHA-256 fingerprinting of datasets, RNG seed tracking, library manifests, and 1-click execution replay scripts.
-5. **Research Paper Studio**: Instant generation of peer-review-ready academic manuscripts in LaTeX (`.tex`) and Markdown format with dynamic experimental metrics injection.
-6. **Zero Autonomous Researcher**: Multi-agent telemetry system coordinating data audits, hypothesis formulation, and Popperian falsification tests.
+3. **Equation Arena** (`/arena`): Multi-paradigm tournament pitting analytical equations against Polynomial Series, Ridge Regression, SINDy dynamical models, and Deep MLPs.
+4. **Scientific Dataset Explorer** (`/datasets`): Tabular preview and cryptographic SHA-256 fingerprinting for both user-uploaded and synthetic datasets.
+5. **Pre-configured Benchmarks** (`/benchmarks`): Gold-standard datasets with exact ground-truth equations (Kepler's Third Law, Ideal Gas Law, Simple Pendulum, Damped Harmonic Oscillator).
+6. **Zero Autonomous Researcher** (`/agent`): Multi-agent telemetry system coordinating data audits, hypothesis formulation, and Popperian falsification tests.
+7. **Reproducibility Vault** (`/vault`): Content-addressed SHA-256 fingerprinting of datasets, RNG seed tracking, library manifests, and 1-click execution replay scripts.
+8. **Research Paper Studio** (`/paper`): Instant generation of peer-review-ready academic manuscripts in LaTeX (`.tex`) and Markdown format with dynamic experimental metrics injection.
 
 ---
 
-## 🚀 Quickstart Local Execution
+## 🚀 Local Execution Setup
 
 ### 1. Prerequisites
 - **Python 3.12+**
