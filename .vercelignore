@@ -1,5 +1,0 @@
-# Ignore backend and scientific folders on frontend Vercel project
-backend/
-scientific/
-docker/
-docs/
